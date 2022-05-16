@@ -1,6 +1,6 @@
 import React from 'react';
 import chairImg from '../../assets/images/chair.png'
-import bgImg from '../../assets/images/bg.png'
+import bgImg from '../../assets/images/bg.png';
 import Button from '../Shared/PrimaryButton';
 
 const Banner = () => {
