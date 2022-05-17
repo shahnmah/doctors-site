@@ -17,7 +17,6 @@ const Info = () => {
    const text1 = 'Lorem Ipsum is simply dummy text of the pri';
    const text2 = 'Brooklyn, NY 10036, United States';
    const text3 = '+000 123 456789';
-
     return (
         <div className='grid grid-cols-1 lg:grid-cols-3 gap-5'>
             <InfoCart title={title1} text={text1} bgStyle={bgStyle1} img={clockImg}/>
